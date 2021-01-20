@@ -1,4 +1,5 @@
 Usage: docker run --rm -t -v </Full/path/to/jqspeedtest/>:/var/www/localhost/htdocs -p 80:80 sebp/lighttpd
+
 For Speedtest visit http://localhost and press button.
 
 JQSpeedTest is a jQuery based plugin to check network speed in between the client and your webserver/application.
